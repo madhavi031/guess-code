@@ -1,2 +1,2 @@
 # guess-code
-About various programming languages the code would be mentioned and explained along with the comments.
+The code about various programming languages written and explained and mentioned along with the comments.
